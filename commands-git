@@ -2,3 +2,5 @@ pour cloner un repository, depuis le terminal il faut taper "git clone [URL]
 afin de cloturer toutes les manipulations et modifications ayant été apportées il faudra faire la commande push. Soit "git push -u origin main" puis rentrer son identifiant et son token là où un mot de passe est demandé.
 ou encore ; 	"git remote add origin [URL]"
 		"git branch -M main"
+modification depuis le site ;
+La commande pull correspond à celle-ci :	git pull
